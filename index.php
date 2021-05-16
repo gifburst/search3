@@ -1,7 +1,7 @@
 <?php
-	define("SITE_ADDR", "http://localhost/tutorials/search_engine");
+	define("SITE_ADDR", "http://localhost/seARch");
 	include("./include.php");
-	$site_title = 'Simple Search Engine | HeyTuts.com tutorials';
+	$site_title = 'seARch!';
 ?>
 <html>
 	<head>
